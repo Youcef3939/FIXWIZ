@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-multipart
+google-generativeai
+pillow
+opencv-python
+numpy
+pydantic
+pydantic-settings
+redis
+aioredis
+sqlalchemy
+alembic
+psycopg2-binary
+httpx
+python-dotenv
+supabase
