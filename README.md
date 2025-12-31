@@ -60,10 +60,18 @@ fixwiz/
 ### 1. backend setup
 ```
 cd backend
+```
+```
 python -m venv venv
+```
+```
 venv\Scripts\activate   #widnows
 source venv/bin/activate #linux/mac
+```
+```
 pip install -r requirements.txt
+```
+```
 uvicorn main:app --reload
 ```
 
