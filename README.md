@@ -47,14 +47,14 @@ superbase used for storing thumbnails, key frames, and user history
 - caching & async: redis 
 
 ## project structure
-
+```
 fixwiz/
 ├── mobile/              # expo app (screens, components, services)
 ├── backend/             # FastAPI backend (routers, services, AI integration)
 ├── AI/                  # prompts, pipelines, examples
 ├── docs/                # hackathon documentation & architecture
 └── README.md
-
+```
 ## GETTING STARTED
 
 ### 1. backend setup
