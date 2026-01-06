@@ -47,7 +47,7 @@ superbase used for storing thumbnails, key frames, and user history
 - caching & async: redis 
 
 ## project structure
-```
+``` 
 fixwiz/
 ├── mobile/              # expo app (screens, components, services)
 ├── backend/             # FastAPI backend (routers, services, AI integration)
