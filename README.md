@@ -56,7 +56,7 @@ fixwiz/
 └── README.md
 ```
 ## GETTING STARTED
-
+ 
 ### 1. backend setup
 ```
 cd backend
