@@ -7,7 +7,7 @@
 ## OVERVIEW  
 
 FIXWIZ uses gemini3 pro to analyze images, vids or livestreams of broken objects (furniture, appliances, electronics, etc) and provides step by step repair instructions
-users can also provide **additional textual details** to refine the diagnosis thus enabling **multimodal reasoning**
+users can also provide **additional textual details** to refine the diagnosis thus enabling **multimodal reasoning** 
 
 built for **mobile first experience**, FIXWIZ is designed to be **interactive, intelligent, and world class hackathon ready**
 
