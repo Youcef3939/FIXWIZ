@@ -4,7 +4,7 @@
 ## FIXWIZ is your ai troubleshooting companion for anything that breaks
 
 
-## OVERVIEW
+## OVERVIEW 
 
 FIXWIZ uses gemini3 pro to analyze images, vids or livestreams of broken objects (furniture, appliances, electronics, etc) and provides step by step repair instructions
 users can also provide **additional textual details** to refine the diagnosis thus enabling **multimodal reasoning**
